@@ -6,10 +6,13 @@
     box-sizing: border-box;
 }
 
+
+
 body {
     display: flex;
     flex-direction: column;
-    background-color: #17153B;
+    background-color: #7a7adb;
+    background-image: linear-gradient(315deg, #7a7adb 0%, #170e13 74%);
     min-height: 100vh;
 }
 
@@ -158,7 +161,8 @@ h1 {
     background-color: #F0F0F0;
 }
 
-.main-section-b-content h3, .main-section-b-content p {
+.main-section-b-content h3,
+.main-section-b-content p {
     text-align: center;
     font-family: 'Inter', sans-serif;
 }
@@ -201,25 +205,25 @@ footer {
     gap: 1rem;
 }
 
-.footer-content p{
+.footer-content p {
     margin: 0;
 }
 
-.enlaces{
+.enlaces {
     display: inline-flex;
     justify-content: center;
     gap: 0.5rem;
-    
+
 }
 
-.enlaces a img{
+.enlaces a img {
     transition: filter 0.3s ease;
 }
 
 
-.enlaces a img:hover{
+.enlaces a img:hover {
     filter: brightness(1.5);
-    filter: drop-shadow(0 0 0.8px rgba(139, 230, 247, 0.918));  
+    filter: drop-shadow(0 0 0.8px rgba(139, 230, 247, 0.918));
     transform: scale(1.1);
 }
 
@@ -417,7 +421,7 @@ footer {
         width: 100%;
         text-align: left;
         height: auto;
-        
+
     }
 
     .content-b-copiar {
@@ -436,14 +440,14 @@ footer {
         width: 100%;
         resize: vertical;
     }
-    
+
     #area-texto:focus {
         resize: vertical;
         box-shadow: 0 6px 8px #09090a;
         background-color: #D9C2E6;
     }
 
-    .content-b{    
+    .content-b {
         display: flex;
         flex-direction: column;
         width: 21rem;
