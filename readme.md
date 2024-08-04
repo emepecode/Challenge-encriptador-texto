@@ -46,5 +46,5 @@ El proyecto está publicado en GitHub Pages y se puede acceder a través de la s
 
 ## Autor
 
-[<https://github.com/emepecode/Challenge-encriptador-texto/blob/gh-pages/img-readme/img116.jpg?raw=true" width=115><br><sub>Marisol Pascua</sub>](https://github.com/emepecode)
+[<img src="https://github.com/emepecode/Challenge-encriptador-texto/blob/gh-pages/img-readme/img116.jpg?raw=true" width=115><br><sub>Marisol Pascua</sub>](https://github.com/emepecode)
  
