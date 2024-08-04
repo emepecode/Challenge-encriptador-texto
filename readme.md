@@ -1,5 +1,8 @@
 # Encriptador/Desencriptador de Texto
 
+![Captura de Pantalla](https://github.com/emepecode/Challenge-encriptador-texto/blob/4a3bc11c03a9aa286ad603d639b665cf7237144e/Desktop1.jpeg?raw=true)
+
+
 Este proyecto es una herramienta simple para encriptar y desencriptar texto utilizando técnicas básicas de cifrado.
 
 
