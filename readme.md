@@ -43,3 +43,9 @@ Este proyecto es una herramienta simple para encriptar y desencriptar texto, en 
 El proyecto está publicado en GitHub Pages y se puede acceder a través de la siguiente URL:
 
 [https://emepecode.github.io/Challenge-encriptador-texto/](https://emepecode.github.io/Challenge-encriptador-texto/)
+
+## Autor
+
+| [<img src="https://github.com/emepecode/Challenge-encriptador-texto/blob/gh-pages/img116.jpg?raw=true" width=115><br><sub>Marisol Pascua</sub>](https://github.com/emepecode) | 
+| :---: | :---: | :---: |
+ 
