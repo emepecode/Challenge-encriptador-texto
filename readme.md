@@ -13,21 +13,26 @@ Este proyecto es una herramienta simple para encriptar y desencriptar texto, en 
 ## Funcionalidades
 
 - **Encriptar Texto**: Convierte el texto ingresado en un formato cifrado.
-![Encriptar texto, ingresando "mensaje de bienvenida"](https://github.com/user-attachments/assets/4ff437b1-efd3-4f82-bcae-e4464acaa3d2)
 
 - **Copiar y Desencriptar Texto**: Copia el texto cifrado y lo convierte de nuevo a su formato original.
-![Texto a desencriptar copiado en el campo de texto](https://github.com/user-attachments/assets/be84f717-c8e5-4e11-a73d-a8e2a6adbf3e)
-
-![Texto original es mostrado luego de pulsar botón Desencriptar](https://github.com/user-attachments/assets/07c72f41-0adf-4785-9546-43393e7ac2c8)
 
 - **Interfaz de Usuario Intuitiva**: Una interfaz fácil de usar para encriptar y desencriptar texto rápidamente.
 
 ## Uso
 
 1. Ingresa el texto que deseas encriptar en el campo de entrada.
+
+![Encriptar texto, ingresando "mensaje de bienvenida"](https://github.com/user-attachments/assets/4ff437b1-efd3-4f82-bcae-e4464acaa3d2)
+
 2. Haz clic en el botón "Encriptar" para ver el texto encriptado.
+
+![Texto a desencriptar copiado en el campo de texto](https://github.com/user-attachments/assets/be84f717-c8e5-4e11-a73d-a8e2a6adbf3e)
+
+
 3. Pulsa el botón "Copiar" y pega el texto encriptado en el campo de entrada.
 4. Haz clic en el botón "Desencriptar" para ver el texto original.
+
+![Texto original es mostrado luego de pulsar botón Desencriptar](https://github.com/user-attachments/assets/07c72f41-0adf-4785-9546-43393e7ac2c8)
 
 ## Tecnologías Utilizadas
 
